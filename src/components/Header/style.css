@@ -1,0 +1,35 @@
+.logo-portal {
+    display: flex;
+    align-items: center;
+    color: #000;
+    font-weight: bold;
+}
+
+.info-header {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.btn-buscar {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    background-color: #a7b7e2;
+    border: none;
+}
+
+hr {
+    color: #d8d8d8
+}
+
+
+@media(max-width: 786px){
+
+    .logo-portal {
+        font-size: 16px;
+    }
+    .info-header {
+        font-size: 10px;
+    }
+    }

@@ -1,0 +1,9 @@
+.titulo-conteudo {
+    display: flex;
+    font-size: 26px;
+    font-weight: bold;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+

@@ -1,0 +1,15 @@
+.footer-direitos {
+    background-color: #dde0ff;
+}
+
+.texto-direitos {
+    width: 100%;
+    text-align: center;   
+}
+
+@media(max-width: 786px){
+
+    .texto-direitos {
+        font-size: 12px;
+    }
+    }
